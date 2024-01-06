@@ -80,7 +80,7 @@ Colab and Kaggle notebooks for HandRefiner
     <img src="sample/output/s_ice_princess_0.jpg" alt="princess-output" width="300px" />
     </td>
     <td>
-      princess making a thumbs up gesture with her hand
+      ice princess making a thumbs up gesture with her hand
     </td>
   </tr>
   <tr>
