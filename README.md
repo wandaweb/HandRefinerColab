@@ -14,6 +14,87 @@ Colab and Kaggle notebooks for HandRefiner
 </table>
 <br/>
 
+<h3>Samples</h3>
+
+<table>
+  <tr>
+    <th>
+      Input image
+    </th>
+    <th>
+      Output
+    </th>
+    <th>
+      Prompt
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="sample/input/waving.jpg" alt="waving-input" width="300px" />
+    </td>
+    <td align="center">
+      <img src="sample/output/s_waving_0.jpg" alt="waving-output" width="300px" />
+    </td>
+    <td>
+      woman waving, right hand waving
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="sample/input/hand_holding_stick.jpg" alt="holding-stick-input" width="300px" />
+    </td>
+    <td align="center">
+      <img src="sample/output/s_hand_holding_stick_0.jpg" alt="holding-stick-output" width="300px" />
+    </td>
+    <td>
+      woman's hand holding a wooden stick
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="sample/input/blackboard.jpg" alt="blackboard-input" width="300px" />
+    </td>
+    <td align="center">
+      <img src="sample/output/s_blackboard_0.jpg" alt="blackboard-output" width="300px" />
+    </td>
+    <td>
+      woman pointing at a blackboard
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="sample/input/candle.jpg" alt="candle-input" width="300px" />
+    </td>
+    <td align="center">
+      <img src="sample/output/candle_0.jpg" alt="candle-output" width="300px" />
+    </td>
+    <td>
+      beautiful young woman's left hand
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="sample/input/ice_princess.jpg" alt="princess-input" width="300px" />
+    </td>
+    <td align="center">
+    <img src="sample/output/s_ice_princess_0.jpg" alt="princess-output" width="300px" />
+    </td>
+    <td>
+      princess making a thumbs up gesture with her hand
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="sample/input/magic_wand.jpg" alt="wand-input" width="300px" />
+    </td>
+    <td align="center">
+      <img src="sample/output/magic_wand_0.jpg" alt="wand-output" width="300px" />
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+<br/>
 These notebooks use the following repositories:
 
 Hand Refiner: https://github.com/wenquanlu/HandRefiner
