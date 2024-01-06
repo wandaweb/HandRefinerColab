@@ -58,7 +58,7 @@ Colab and Kaggle notebooks for HandRefiner
       <img src="sample/output/s_blackboard_0.jpg" alt="blackboard-output" width="300px" />
     </td>
     <td>
-      woman pointing at a blackboard
+      woman pointing with her index finger
     </td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ Colab and Kaggle notebooks for HandRefiner
     <img src="sample/output/s_ice_princess_0.jpg" alt="princess-output" width="300px" />
     </td>
     <td>
-      princess making a thumbs up gesture with her hand
+      ice princess making a thumbs up gesture with her hand
     </td>
   </tr>
   <tr>
