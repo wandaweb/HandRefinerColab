@@ -1,9 +1,9 @@
 # HandRefinerColab
-Colab and Kaggle notebooks for HandRefiner
+Colab, Kaggle and Sagemaker Studio Lab notebooks for HandRefiner
 
 <table>
   <tr>
-    <td><a href="https://colab.research.google.com/drive/1j40Y-FyRcJNasLs_8xNuzX_9-EDB2KrY" target="_blank"><img align="left" alt="Kaggle" title="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg" /></a> 
+    <td><a href="https://colab.research.google.com/drive/1j40Y-FyRcJNasLs_8xNuzX_9-EDB2KrY" target="_blank"><img align="left" alt="Colab" title="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg" /></a> 
   </td>
     <td>Colab notebook</td>
   </tr>
@@ -11,6 +11,11 @@ Colab and Kaggle notebooks for HandRefiner
     <td><a href="https://www.kaggle.com/pogscafe/handrefiner-kaggle/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a></td>
     <td>Kaggle notebook</td>
   </tr>
+  <tr>
+    <td><a href="https://xqhpthz6ll5c1uf.studio.us-east-2.sagemaker.aws/studiolab/default/jupyter/lab/tree/sagemaker-studiolab-notebooks/HandRefinerColab/HandRefiner-SagemakerStudioLab.ipynb" target="_blank"><img align="left" alt="Open in Sagemaker Studio Lab" title="Open in Sagemaker Studio Lab" src="https://studiolab.sagemaker.aws/studiolab.svg" /></a></td>
+    <td>Sagemaker Studio Lab</td>
+  </tr>
+  
 </table>
 <br/>
 
