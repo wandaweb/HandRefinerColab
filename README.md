@@ -19,6 +19,8 @@ Colab, Kaggle and Sagemaker Studio Lab notebooks for HandRefiner
 </table>
 <br/>
 
+How-to video: https://youtu.be/U6x3-N6ZcM0
+
 <h3>Samples</h3>
 
 <table>
